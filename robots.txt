@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ugelauxu.github.io/Kxt/sitemap_index.txt
+Sitemap: https://ugelauxu.github.io/ZHp/sitemap_index.txt
+Sitemap: https://ugelauxu.github.io/lKc/sitemap_index.txt
+Sitemap: https://ugelauxu.github.io/pBo/sitemap_index.txt
